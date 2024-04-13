@@ -2,8 +2,8 @@
 Classification of Stack Overflow Questions Using Python and Tensorflow
 
 <div align="left">
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-<img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
 </div>
 
 # Stack Overflow Classification with TensorFlow
